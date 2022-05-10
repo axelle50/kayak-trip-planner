@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+boto3
+botocore
+scrapy
+plotly
