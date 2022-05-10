@@ -1,7 +1,11 @@
 # Project with Jedha
 
-Imagine working for Kayak: <br />
+### Link to the presentation video
+https://share.vidyard.com/watch/mok6RZBtUfX3p2VPwQj3N5?
+
+
 ### Objective
+Imagine working for Kayak: <br />
 The goal of this project is to help users plan a one week trip. 
 - It takes weather into account for the 27 best cities to visit in France and recommands the top 5 cities for next week. 
 - It shows the user a list of the 20 best hostels in thoses cities, according to Booking.com ranking.
