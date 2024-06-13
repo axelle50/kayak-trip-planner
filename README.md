@@ -30,7 +30,7 @@ There is no dataset as the objective is to gather data from scraping and APIs.
 Note that you should use your own API keys for openweathermap and AWS S3.
 
 ## Team contributors
-Quentin Gottafray
+Axelle Gottafray
 
 ## References
 
